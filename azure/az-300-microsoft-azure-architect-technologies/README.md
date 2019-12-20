@@ -6,3 +6,9 @@ This section of the repository aims towards _AZ-300: Microsoft Azure Architect T
 
 - [x] Ongoing
 - [ ] Passed
+
+## Accounts
+
+- Azure Enterprise - [https://ea.azure.com](https://ea.azure.com)
+- Accounts - [https://account.azure.com](https://account.azure.com)
+- Subscriptions - [https://portal.azure.com](https://portal.azure.com)
